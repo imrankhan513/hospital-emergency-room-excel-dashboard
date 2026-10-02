@@ -3,9 +3,10 @@
 ## 📊 Project Overview
 
 An interactive Excel dashboard built to analyze hospital emergency room data and provide insights into patient visits, admission status, age groups, and daily patient trends.
+
 ## 📊 Dashboard Preview
 
-![Hospital Emergency Room Dashboard](Hospital_ER_Dashboard_2023_2024.png)
+![Hospital Emergency Room Dashboard](Hospital%20Emergency%20Room%20Dashboard.png)
 
 ## 🎯 Key Analysis
 
